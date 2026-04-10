@@ -26,11 +26,23 @@ Gosto de desenvolver soluções práticas, automações e recursos completos par
 - OSINT (Inteligência de Fontes Abertas)
 - Automação avançada com Python
 
-**Ferramentas:**
+## Ferramentas:
+
 - Git & GitHub
 - Visual Studio Code
 - Linux (básico)
 
+## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua)
+![FiveM](https://img.shields.io/badge/FiveM-0d1117?style=for-the-badge&logo=rockstargames)
+![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman)
 ---
 
 ### 🚀 Projetos em Destaque
