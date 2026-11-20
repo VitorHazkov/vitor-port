@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Vitor</h1>
-  <h3>Desenvolvedor Python • FiveM • Cybersecurity | 14 anos</h3>
+  <h3>Desenvolvedor Python • FiveM • Cybersecurity | 15 anos</h3>
 </div>
 
 ---
 
 ### Sobre mim
 
-Tenho 14 anos e já programo há algum tempo.  
+Tenho 15 anos e já programo há algum tempo.  
 Sou **intermediário/avançado em Python**, tenho experiência sólida criando sistemas para **FiveM** (principalmente em **Lua**) e atualmente estou estudando **Cybersecurity** e **OSINT**.
 
 Gosto de desenvolver soluções práticas, automações e recursos completos para servidores de GTA V RP.
